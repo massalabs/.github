@@ -6,7 +6,7 @@ Welcome aboard to *Massa* organisation. On this profile you will find all reposi
 
 - [massa](https://github.com/massalabs/massa): Main code of the Massa blockchain, builds the node and client, holds all the critical code for the architecture.
 - [massa-proto](https://github.com/massalabs/massa-proto): A repository centralizing protobuf bindings for Massa GRPC.
-- [massa-bridge](https://github.com/massalabs/massa-bridge): Blockchain bridge between Massa and any EVM-compatible blockchains.
+- [massa-bridge](https://github.com/massalabs/massa-bridge): Blockchain bridge between Massa and any EVM-compatible blockchain.
 - [PeerNet](https://github.com/massalabs/PeerNet): P2P network backend for the Massa blockchain.
 - [stream_limiter](https://github.com/massalabs/stream_limiter): Rust library to implement read/write speed limits on any stream.
 
