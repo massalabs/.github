@@ -12,10 +12,10 @@ Welcome aboard to *Massa* organisation. On this profile you will find all reposi
 
 ## Smart contracts
 
-- [massa-sc-runtime](https://github.com/massalabs/massa-sc-runtime): Sandbox to run the smart-contracts (compiled as WASM) on a Massa node.
-- [massa-as-sdk](https://github.com/massalabs/massa-as-sdk): SDK to build smart-contracts in AssemblyScript. Abstracts the Massa's ABI function.
-- [massa-sc-toolkit](https://github.com/massalabs/massa-sc-toolkit): Provide tools such as `@massalabs/sc-project-initializer` to improve the experience of smart-contracts development.
-- [massa-sc-compiler](https://github.com/massalabs/massa-sc-compiler): Compile a smart-contract to a WASM binary.
+- [massa-sc-runtime](https://github.com/massalabs/massa-sc-runtime): Sandbox to run smart contracts (compiled as WASM), on a Massa node.
+- [massa-as-sdk](https://github.com/massalabs/massa-as-sdk): An SDK to build smart contracts in AssemblyScript. Abstracts Massa's ABI functions.
+- [massa-sc-toolkit](https://github.com/massalabs/massa-sc-toolkit): Provides tools such as `@massalabs/sc-project-initializer` to improve the smart-contract development experience.
+- [massa-sc-compiler](https://github.com/massalabs/massa-sc-compiler): Compile a smart contract to WASM binary.
 - [massa-sc-playground](https://github.com/massalabs/massa-sc-playground): Playground in AssemblyScript for smart-contracts.
 - [massa-web3](https://github.com/massalabs/massa-web3): Library to help the implementation of Web3 applications on top of the Massa blockchain.
 - [massa-as-gaming-sdk](https://github.com/massalabs/massa-as-gaming-sdk): SDK for smart-contracts in AssemblyScript made for game development.
