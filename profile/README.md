@@ -19,7 +19,7 @@ Welcome aboard to *Massa* organisation. On this profile you will find all reposi
 - [massa-sc-playground](https://github.com/massalabs/massa-sc-playground): Playground in AssemblyScript for smart-contracts.
 - [massa-web3](https://github.com/massalabs/massa-web3): A library to help the implementation of Web3 applications on top of Massa blockchain.
 - [massa-as-gaming-sdk](https://github.com/massalabs/massa-as-gaming-sdk): An SDK for smart contracts in AssemblyScript, made for game development.
-- [massa-standards](https://github.com/massalabs/massa-standards): Code implementing standard smart contracts, such as NFT or ERC-20.
+- [massa-standards](https://github.com/massalabs/massa-standards): Repository for smart-contracts standards like NFT and ERC-20, and all Massa standards.
 - [massa-sc-examples](https://github.com/massalabs/massa-sc-examples): Smart-contract examples.
 - [as](https://github.com/massalabs/as): Utils to write smart contracts in AssemblyScript.
 
@@ -36,7 +36,6 @@ Welcome aboard to *Massa* organisation. On this profile you will find all reposi
 
 ## Tests and benchmarks
 
-- [massa-benchmark](https://github.com/massalabs/massa-benchmark-main): Contains benchmarks of some parts of the massa blockchain.
 - [massa-unit-tests-src](https://github.com/massalabs/massa-unit-tests-src): Source of every smart-contracts serving as unit tests inside the [massa-core](https://github.com/massalabs/massa) repository.
 - [massa-sc-tester](https://github.com/massalabs/massa-sc-tester): Minimal testing environment for smart-contracts.
 
